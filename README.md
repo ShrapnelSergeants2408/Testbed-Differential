@@ -1,4 +1,4 @@
-# FRC Robot Drive Base
+# FRC Testbed Robot Differential Drive Base
 
 This repository contains the code for a basic FRC (FIRST Robotics Competition) robot drive base using WPILib's command-based framework. This project serves as a foundation for further development with additional subsystems and game-specific functionality.
 
